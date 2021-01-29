@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
+// Since the variable "internal " is not found in the nestedFunction it seeks it outwardly and finds it under the same parent.
 
 
 
