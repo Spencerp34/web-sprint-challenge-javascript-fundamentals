@@ -46,7 +46,7 @@ When a scope doesnt have the function/variable that it is required so it goes up
 
 5. Why do we need super() in an extended class?
 
-It just makes sure it inherrits all attributes from the parent class.
+It just makes sure it inherits all attributes from the parent class.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
